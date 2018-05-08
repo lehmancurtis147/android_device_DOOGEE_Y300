@@ -1,0 +1,1 @@
+# android_device_DOOGEE_Y300
