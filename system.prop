@@ -60,7 +60,7 @@ ro.kernel.zio=38,108,105,16
 #ro.kernel.qemu.gles=0
 #ro.boot.selinux=disable
 
-ro.sf.lcd_density=320
+ro.sf.lcd_density=360
 
 # performance
 ro.mtk_perf_simple_start_win=1
